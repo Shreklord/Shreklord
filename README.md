@@ -8,7 +8,7 @@ I've been learning to code since high school using mainly java, I'm currently a 
 
 * 🌍  I'm based in South Carolina
 * ✉️  You can contact me at [anthonygoldhammer03@gmail.com](mailto:anthonygoldhammer03@gmail.com)
-* 🚀  I'm currently working on [DaVinciAcademia](http://https://github.com/Shreklord/DaVinciAcademia)
+* 🚀  I'm currently working on Synchro
 * 🧠  I'm learning Full Stack Website Development
 * 🤝  I'm open to collaborating on other projects
 * ⚡  I have a dog named Dakota
